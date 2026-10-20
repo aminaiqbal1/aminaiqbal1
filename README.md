@@ -18,10 +18,12 @@
 
 ### About Me
 
-- 🌱 Currently learning and building with **Artificial Intelligence, Machine Learning, and Python**
+I am a passionate developer focused on building intelligent systems and practical AI-driven experiences. My work revolves around Python, machine learning, retrieval-augmented generation, and innovative web-based applications that solve real-world problems.
+
+- 🌱 Currently learning and building with **Artificial Intelligence**, **Machine Learning**, and **Python**
 - 💡 Interested in **RAG systems, LLM workflows, Django apps, AI tools, and intelligent automation**
 - 📫 Reach me at **amminaiqball@gmail.com**
-- ⚡ I enjoy turning ideas into useful projects and learning by building real-world solutions
+- ⚡ I enjoy turning ideas into useful projects and learning by building meaningful solutions
 
 ### My Core Focus
 
@@ -42,7 +44,7 @@
         <img src="https://img.shields.io/badge/DocumentGPT-Open%20Repo-6A5ACD?style=for-the-badge&logo=github" alt="DocumentGPT" />
       </a><br>
       <strong><a href="https://github.com/aminaiqbal1/DocumentGPT-" target="_blank">DocumentGPT-</a></strong><br>
-      Smart document-based AI project for interacting with uploaded files and extracting useful information from content.
+      A document-based AI experience for chatting with uploaded files and extracting meaningful information from content.
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/aminaiqbal1/-Voice-Chatbot" target="_blank">
@@ -65,7 +67,7 @@
         <img src="https://img.shields.io/badge/Mental%20Health-Open%20Repo-DB2777?style=for-the-badge&logo=health" alt="Mental Health Exercises" />
       </a><br>
       <strong><a href="https://github.com/aminaiqbal1/Mental-Health-Exercises" target="_blank">Mental-Health-Exercises</a></strong><br>
-      Practical wellness-focused project designed to support mental health awareness and guided exercises.
+      Practical wellness-focused project designed to support mental health awareness and guided self-improvement exercises.
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/aminaiqbal1/pdf_chat" target="_blank">
